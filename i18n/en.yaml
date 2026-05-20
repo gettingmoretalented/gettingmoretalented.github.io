@@ -1,0 +1,10 @@
+homepage:
+  intro: "welcome to my website, ain't my design skillz sick?"
+  moreintro: "i have a [blog](/blog/), an [art instagram](https://www.imginn.com/gettingmoretalented/), and [a music career](https://soundcloud.com/gettingmoretalented)"
+  footer: ""
+
+blog:
+  intro: ""
+  moreintro: ""
+
+noPosts: "No posts to display."

@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<!-- Intro -->
+<p>{{ i18n "blog.intro" | markdownify }}</p>
+            
+<!-- Description -->
+<p>{{ i18n "blog.moreintro" | markdownify }}</p>
+ 
+<!-- Posts lists -->
+{{ $allPosts := where .Site.RegularPages "Section" "posts" }}
+
+<ul>
+    {{ range $allPosts }}
+        <li>
+            <span>{{ .Date.Format ($.Site.Params.theme_config.date_format | default "02.01.2006") }}</span>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+    {{ else }}
+        <li>No posts to display yet.</li>
+    {{ end }}
+</ul>
+
+{{ end }}

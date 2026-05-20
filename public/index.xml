@@ -1,0 +1,20 @@
+<rss version="2.0">
+    <channel>
+        <title>My website name</title>
+        <link>http://localhost:1313/</link>
+        <description>RSS description.</description>
+        <language>en</language>
+        
+        
+        
+        <item>
+            <title>Test</title>
+            <link>http://localhost:1313/blog/test/</link>
+            <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+            <pubDate>Wed, 20 May 2026 18:00:46 BST</pubDate>
+            <guid>http://localhost:1313/blog/test/</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode }}">
+<head>
+    {{- partial "head.html" . -}}
+</head>
+<body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
+    <main class="page-content" aria-label="Content">
+        <div class="w">
+            
+            {{ if and (not .IsHome) (ne .RelPermalink "/links/") }}
+            <header class="site-header">
+                <h1 class="site-title">{{ .Site.Title }}</h1>
+                <div class="header-nav">
+                    <div class="menu-links">
+                        <a href="/">home</a>
+                        {{ range (where .Site.RegularPages "Section" "pages") }}
+                            {{ if ne .RelPermalink "/blog/" }}
+                                <a href="{{ .RelPermalink }}">{{ .Title | lower }}</a>
+                            {{ end }}
+                        {{ end }}
+                    </div>
+                </div>
+            </header>
+            {{ end }}
+
+            {{ block "main" . }}{{ end }}
+
+        </div>
+    </main>
+</body>
+</html>

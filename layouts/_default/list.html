@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ if ne .RelPermalink "/blog/" }}
+{{ partial "back_link.html" .}}
+{{ end }}
+
+{{ if .Title }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+
+{{ .Content }}
+{{ partial "post_list.html" (dict "context" . "section" .Section)}}
+{{ end }}

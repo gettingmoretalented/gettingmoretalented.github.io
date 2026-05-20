@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sourceRoot": "/home/dly/Documents/blog/gettingmoretalented.github.io",
+	"sources": [
+		"assets/css/custom.scss"
+	],
+	"sourcesContent": [
+		"/* Custom site styles */\n\narticle h1 {\n  text-align: center;\n}\n\n.post-metadata-header {\n  opacity: 0.5;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,OAAO,CAAC,EAAE,AAAC,CACT,UAAU,CAAE,MAAM,CACnB,AAED,AAAA,qBAAqB,AAAC,CACpB,OAAO,CAAE,GAAG,CACb"
+}
