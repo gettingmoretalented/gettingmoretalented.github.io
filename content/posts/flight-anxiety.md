@@ -12,7 +12,7 @@ tags = []
 
 so i used to (as of ~6 months ago) have really bad flight anxiety. the smallest amount of turbulence would make me clench the armrests for dear life.
 
-i've intentionally missed flights because of this, and because flying is cheap and convenient, this was a major hindrance in my life would i wanted to get rid of.
+i've intentionally missed flights because of this, and because flying is cheap and convenient, this was a major hindrance in my life that i wanted to get rid of.
 
 it wasn't the potential dying part which i minded (although i would prefer not to die), but the fact that if anything happened my last moments would likely be spent in terror.
 
@@ -26,7 +26,7 @@ now i had looked online before for general flight anxiety tips, and there would 
 
 at some point i got fed up and decided to just find a way to shut down my body during a flight, so i naturally turned to researching chemicals that would do the trick.
 
-the obvious choice was some form of benzodiazepines (fx. xanax, etc.) however, i live in a country where it's quite hard to get these without some form of prescription, and trying to convince a doctor that i would need a lot of xanax for 'flight anxiety' seemed to be unrealistic.
+the obvious choice was some form of benzodiazepines (fx. xanax, etc.), however, i live in a country where it's quite hard to get these without some form of prescription, and trying to convince a doctor that i would need a lot of xanax for 'flight anxiety' seemed to be unrealistic.
 
 ---
 
@@ -54,7 +54,7 @@ thus, if this is correct, propranalol could potentialy remove my flight anxiety,
 
 ---
 
-anyway long story short i ended up trying it, taking the recommended dose 30 minutes before boarding (with peak blood plasma apparently being around 60-90 minutes after ingestion), and having a great flight, even with turbulence. i actually enjoyed flying for once, even enjoying the turbulence.
+anyway long story short i ended up trying it, taking the recommended dose (10mg as per prescription) 30 minutes before boarding (with peak blood plasma apparently being around 60-90 minutes after ingestion), and having a great flight, even with turbulence. i actually enjoyed flying for once, even enjoying the turbulence.
 
 the effect was a sort of dampening of my physical senses, especially my adrenaline. bumps that would usually send my heart racing, and send a wave of anxiety to my chest, now just manifested as a slight tension in my stomach, which would subside within seconds.
 
@@ -70,4 +70,4 @@ even if the effect is completely gone by 6 months (doubtful, but will see and up
 
 > (247 doses * 6 months) / 12 = 123.5 years
 
-so should last me (hopefully) a lifetime.
+so the whole bottle should last me (hopefully) a lifetime.
