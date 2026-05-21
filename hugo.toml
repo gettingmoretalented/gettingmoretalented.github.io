@@ -3,6 +3,7 @@ relativeURLs = true
 locale = 'en-us'
 title = 'gmt'
 theme = 'somestyleplease'
+enableGitInfo = true
 
 [languages]
   [languages.en]

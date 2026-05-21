@@ -1,6 +1,5 @@
 +++
 date = '2026-05-20T21:16:11+01:00'
-lastmod = '2026-05-20T21:16:11+01:00'
 draft = false
 title = 'flight anxiety'
 status = 'ongoing'

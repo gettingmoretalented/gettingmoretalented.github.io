@@ -1,6 +1,5 @@
 +++
 date = '2026-05-20T16:18:20+01:00'
-lastmod = '2026-05-20T16:18:20+01:00'
 draft = false
 title = 'links'
 url = "/links/"
