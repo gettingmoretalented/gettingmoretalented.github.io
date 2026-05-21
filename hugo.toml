@@ -1,13 +1,14 @@
-baseURL = 'https://gettingmoretalented.github.io'
+baseURL = '/'
+relativeURLs = true
 locale = 'en-us'
 title = 'gmt'
 theme = 'somestyleplease'
 
 [languages]
   [languages.en]
-    languageCode = 'en-US'
-    languageName = 'English'
-    languageDirection = 'ltr'
+    locale = 'en-US'
+    label = 'English'
+    direction = 'ltr'
     title = 'gmt blog'
 
 [permalinks]

@@ -1,0 +1,567 @@
+<rss version="2.0">
+    <channel>
+        <title>My website name</title>
+        <link>http://localhost:1313/categories/druga-kategoria/</link>
+        <description>RSS description.</description>
+        <language>en</language>
+        
+        
+        
+        <item>
+            <title>flight anxiety</title>
+            <link>http://localhost:1313/blog/flight-anxiety/</link>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;tldr; took 10mg propranalol, flight anxiety semi-permanently (n=3) went away&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;so i used to (as of ~6 months ago) have really bad flight anxiety. the smallest amount of turbulence would make me clench the armrests for dear life.&lt;/p&gt;
+&lt;p&gt;i’ve intentionally missed flights because of this, and because flying is cheap and convenient, this was a major hindrance in my life would i wanted to get rid of.&lt;/p&gt;
+&lt;p&gt;it wasn’t the potential dying part which i minded (although i would prefer not to die), but the fact that if anything happened my last moments would likely be spent in terror.&lt;/p&gt;
+&lt;p&gt;anyway, recently i’ve been more and more attracted to materialism as the true nature of reality, and thus reasoned i must fix this directly by the root cause, my brain.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;years ago i had been given a prescription for propranolol, for ’exam anxiety’. i took 5mg (half of one 10mg sized pills they had given me) on a whim and felt nothing, thus ending my experiment then and there.&lt;/p&gt;
+&lt;p&gt;now i had looked online before for general flight anxiety tips, and there would be some hippie-esque tips like “sensory grounding” and “let go”. even learning about how airplanes work did not really help, the anxiety really was some maladaptive response i had picked up somewhere.&lt;/p&gt;
+&lt;p&gt;at some point i got fed up and decided to just find a way to shut down my body during a flight, so i naturally turned to researching chemicals that would do the trick.&lt;/p&gt;
+&lt;p&gt;the obvious choice was some form of benzodiazepines (fx. xanax, etc.) however, i live in a country where it’s quite hard to get these without some form of prescription, and trying to convince a doctor that i would need a lot of xanax for ‘flight anxiety’ seemed to be unrealistic.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;i then remembered my long forgotten bottle of propranalol, with around 249.5 doses remaining. some quick research and there was some evidence and experiences using against flight anxiety. some more research later and i found myself quite excited, as the proposed mechanism of action seemed to be quite effective.&lt;/p&gt;
+&lt;p&gt;from ChatGPT:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Propranolol works by blocking beta-adrenergic receptors, reducing the effects of adrenaline on the heart and nervous system, which lowers heart rate, blood pressure, and physical symptoms of anxiety&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;selection bias or not, this seemed to be closed to the symptoms i was experiencing.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is thought that beta blockers do not directly treat psychological symptoms of anxiety, but can help control physical symptoms such as palpitations, and this may interfere with a positive feedback loop to indirectly reduce psychological anxiety&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wikipedia (Propranolol)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;thats fine, i’m a materialist now, baby.&lt;/p&gt;
+&lt;p&gt;the most interesting thing i came across was propranalol’s effect on short-term memory:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Propranolol works to inhibit the actions of norepinephrine (noradrenaline), a neurotransmitter that enhances memory consolidation. In one small study, individuals given propranolol immediately after trauma experienced fewer stress-related symptoms and lower rates of PTSD than respective control groups who did not receive the drug. Due to the fact that memories and their emotional content are reconsolidated in the hours after they are recalled or re-experienced, propranolol can also diminish the emotional impact of already formed memories; for this reason, it is also being studied in the treatment of specific phobias, such as arachnophobia, dental fear, and social phobia.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wikipedia (Propranolol)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;thus, if this is correct, propranalol could potentialy remove my flight anxiety, by taking it once, forever.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;anyway long story short i ended up trying it, taking the recommended dose 30 minutes before boarding (with peak blood plasma apparently being around 60-90 minutes after ingestion), and having a great flight, even with turbulence. i actually enjoyed flying for once, even enjoying the turbulence.&lt;/p&gt;
+&lt;p&gt;the effect was a sort of dampening of my physical senses, especially my adrenaline. bumps that would usually send my heart racing, and send a wave of anxiety to my chest, now just manifested as a slight tension in my stomach, which would subside within seconds.&lt;/p&gt;
+&lt;p&gt;so i think that this experiment was a huge success. what i now was most interested in was if this effect was going to last.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;around 5 months later, i booked a weekend flight, and decided to try not taking propranalol both times, to see what would happen.&lt;/p&gt;
+&lt;p&gt;what i found was, this anti-adrenaline effect was still at least 80% there, compared to before ever taking propranalol.&lt;/p&gt;
+&lt;p&gt;even if the effect is completely by 6 months (will see and update), some quick maths gives me:&lt;/p&gt;
+&lt;p&gt;[
+\begin{aligned}
+247 doses * 6 months / 12 = 123.5 years
+\end{aligned}
+]&lt;/p&gt;
+&lt;p&gt;so should last me (hopefully) a lifetime.&lt;/p&gt;
+</description>
+            <pubDate>Wed, 20 May 2026 21:16:11 BST</pubDate>
+            <guid>http://localhost:1313/blog/flight-anxiety/</guid>
+        </item>
+        
+        <item>
+            <title>Spis treści, tag details, schematy kolorów kategorie i tagi (ten wpis ma naprawdę długi tytuł!)</title>
+            <link>http://localhost:1313/blog/toc-details-colors-categories-tags.pl/</link>
+            <description>&lt;h2 id=&#34;spis-treści&#34;&gt;Spis treści&lt;/h2&gt;
+&lt;h3 id=&#34;co-to-jest&#34;&gt;Co to jest?&lt;/h3&gt;
+&lt;p&gt;Spis treści (Table of content - TOC) to to co widzisz na samej górze tego wpisu. Spis treści może być obramowany lub nie. Klikając na pozycję w spisie treści użytkownik jest przenoszony do odpowiedniego fragmentu strony, nagłówek zaś jest podświetlany.&lt;/p&gt;
+&lt;h3 id=&#34;jak-włączyć-toc&#34;&gt;Jak włączyć TOC?&lt;/h3&gt;
+&lt;p&gt;Tworząc nowego posta na samej górze, w miejscu gdzie jest tytuł posta i jego data musisz umieścić:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;toc = &lt;span style=&#34;color:#f00&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tocBorder = &lt;span style=&#34;color:#f00&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Możesz oczywiście otworzyć tego posta &lt;code&gt;../themes/somestyleplease/content/posts/test-toc-and-details.pl.md&lt;/code&gt; i otworzyć go w edytorze tekstu, wtedy zobaczysz jak to działa.&lt;/p&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;h3 id=&#34;co-to-jest-&#34;&gt;Co to jest ?&lt;/h3&gt;
+&lt;p&gt;HTMLowy standard niestety nie wspierany przez markdown. Ale ten szablon i tak go wspiera, więc gdy czasami chcesz coś ukryć skorzystaj z niego.
+&lt;details &gt;
+    &lt;summary&gt;
+        Kliknij mnie
+    &lt;/summary&gt;
+    Tu może być dużo tekstu.
+&lt;/details&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;jak-użyć-details&#34;&gt;Jak użyć “Details”?&lt;/h3&gt;
+&lt;p&gt;Cóż, musisz sprawdzić samodzielnie. Otwórz w edytorze tekstu &lt;code&gt;../themes/somestyleplease/content/posts/test-toc-and-details.pl.md&lt;/code&gt; i wszystko stanie się jasne.&lt;/p&gt;
+&lt;h2 id=&#34;schematy-kolorów&#34;&gt;Schematy kolorów&lt;/h2&gt;
+&lt;p&gt;Jeśli chcesz zmienić kolorystykę szablonu edytuj plik config.toml i znajdź linijkę:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;appearance = &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;auto&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Możesz ją zmienić na kilka predefiniowanych styli (&lt;code&gt;light&lt;/code&gt;, &lt;code&gt;dark&lt;/code&gt;, &lt;code&gt;matrix&lt;/code&gt;, &lt;code&gt;bear&lt;/code&gt;, &lt;code&gt;together&lt;/code&gt;). Jeśli zostawisz &lt;code&gt;auto&lt;/code&gt; schemat kolorów będzie się dopasowywać do kolorów w Twoim systemie operacyjnym (między &lt;code&gt;light&lt;/code&gt; i &lt;code&gt;dark&lt;/code&gt;). Możesz z łatwością dodawać swoje schematy kolorystyczne, po prostu edytuj CSS. Jest to proste i jeśli dajesz radę sobie z Hugo to edycja CSS nie powinna być też bardzo trudna. ;-)&lt;/p&gt;
+</description>
+            <pubDate>Thu, 20 Nov 2025 13:34:54 &#43;0200</pubDate>
+            <guid>http://localhost:1313/blog/toc-details-colors-categories-tags.pl/</guid>
+        </item>
+        
+        <item>
+            <title>Table of contents, details, color schemes, categories and tags (This post has a really long title!)</title>
+            <link>http://localhost:1313/blog/toc-details-colors-categories-tags/</link>
+            <description>&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;The Table of Contents (TOC) is what you see at the very top of this post. The TOC can be bordered or unbordered. Clicking an item in the TOC takes the user to the appropriate section of the page, and the header is highlighted.&lt;/p&gt;
+&lt;h3 id=&#34;how-do-i-enable-toc&#34;&gt;How do I enable TOC?&lt;/h3&gt;
+&lt;p&gt;When creating a new post, at the very top, where the post title and date are, you need to put:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;toc = &lt;span style=&#34;color:#f00&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tocBorder = &lt;span style=&#34;color:#f00&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can, of course, open this post &lt;code&gt;../themes/somestyleplease/content/posts/test-toc-and-details.pl.md&lt;/code&gt; and open it in a text editor to see how it works.&lt;/p&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h3&gt;
+&lt;p&gt;An HTML standard, unfortunately, not supported by markdown. But this template supports it anyway, so if you sometimes want to hide something, use it.
+&lt;details &gt;
+    &lt;summary&gt;
+        Click me
+    &lt;/summary&gt;
+    There may be a lot of text here.
+&lt;/details&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;how-do-i-use-details&#34;&gt;How do I use “Details”?&lt;/h3&gt;
+&lt;p&gt;Well, you’ll have to check for yourself. Open &lt;code&gt;../themes/somestyleplease/content/posts/test-toc-and-details.pl.md&lt;/code&gt; in a text editor and everything will become clear.&lt;/p&gt;
+&lt;h2 id=&#34;color-schemes&#34;&gt;Color Schemes&lt;/h2&gt;
+&lt;p&gt;If you want to change the template’s colors, edit the config.toml file and find the line:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;appearance = &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;auto&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can change it to several predefined styles (&lt;code&gt;light&lt;/code&gt;, &lt;code&gt;dark&lt;/code&gt;, &lt;code&gt;matrix&lt;/code&gt;, &lt;code&gt;bear&lt;/code&gt;, &lt;code&gt;together&lt;/code&gt;). If you leave it on &lt;code&gt;auto&lt;/code&gt;, the color scheme will match your operating system’s colors (between &lt;code&gt;light&lt;/code&gt; and &lt;code&gt;dark&lt;/code&gt;). You can easily add your own color schemes, just edit the CSS. It’s simple, and if you’re comfortable with Hugo, editing CSS shouldn’t be too difficult either. ;-)&lt;/p&gt;
+</description>
+            <pubDate>Thu, 20 Nov 2025 13:34:54 &#43;0200</pubDate>
+            <guid>http://localhost:1313/blog/toc-details-colors-categories-tags/</guid>
+        </item>
+        
+        <item>
+            <title>Test Tex</title>
+            <link>http://localhost:1313/blog/test-tex/</link>
+            <description>&lt;p&gt;As you can see, you can easily use mathematical formulas within one line: &lt;span&gt;
+\(\varphi\)
+&lt;/span&gt;
+. And display entire formulas.&lt;/p&gt;
+&lt;span&gt;
+$$\begin{aligned}
+\varphi &amp;\Rightarrow \psi \\
+\varnothing &amp;\rightarrow A
+\end{aligned}$$
+&lt;/span&gt;
+
+&lt;p&gt;$$
+R_{\mu \nu} - {1 \over 2}g_{\mu \nu},R &#43; g_{\mu \nu} \Lambda
+= {8 \pi G \over c^4} T_{\mu \nu}
+$$&lt;/p&gt;
+&lt;p&gt;And continue writing in mardown.&lt;/p&gt;
+</description>
+            <pubDate>Fri, 26 Aug 2022 22:28:10 &#43;0800</pubDate>
+            <guid>http://localhost:1313/blog/test-tex/</guid>
+        </item>
+        
+        <item>
+            <title>Test Tex</title>
+            <link>http://localhost:1313/blog/test-tex.pl/</link>
+            <description>&lt;p&gt;Jak widać można bez problemu używać formuł matematycznych w ramach jednej linijki: &lt;span&gt;
+\(\varphi\)
+&lt;/span&gt;
+. Jak i pokazywać całe wzory.&lt;/p&gt;
+&lt;span&gt;
+$$\begin{aligned}
+\varphi &amp;\Rightarrow \psi \\
+\varnothing &amp;\rightarrow A
+\end{aligned}$$
+&lt;/span&gt;
+
+&lt;p&gt;$$
+R_{\mu \nu} - {1 \over 2}g_{\mu \nu},R &#43; g_{\mu \nu} \Lambda
+= {8 \pi G \over c^4} T_{\mu \nu}
+$$&lt;/p&gt;
+&lt;p&gt;I dalej pisać w mardown.&lt;/p&gt;
+</description>
+            <pubDate>Fri, 26 Aug 2022 22:28:10 &#43;0800</pubDate>
+            <guid>http://localhost:1313/blog/test-tex.pl/</guid>
+        </item>
+        
+        <item>
+            <title>Markdown Syntax</title>
+            <link>http://localhost:1313/blog/markdown/</link>
+            <description>&lt;p&gt;This is sample text intended to show&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; a post with a large number of different elements.&lt;/p&gt;
+&lt;h1 id=&#34;sample-heading-1&#34;&gt;Sample Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;sample-heading-2&#34;&gt;Sample Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;sample-heading-3&#34;&gt;Sample Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;sample-heading-4&#34;&gt;Sample Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;sample-heading-5&#34;&gt;Sample Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;sample-heading-6&#34;&gt;Sample Heading 6&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet. Sit dolor nihil aut blanditiis animi non dolores total cum consequatur nesciunt et quod exercitationem est dolorum aliquam. Ut quidem ullam vel Quis culpa ad repellendus corrupti qui delectus voluptatum sit eligendi assumenda.&lt;/p&gt;
+&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;
+&lt;p&gt;Dotted:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One&lt;/li&gt;
+&lt;li&gt;Two&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Three&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Numbered:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.&lt;/li&gt;
+&lt;li&gt;Sed massa quam, auctor in eros quis, porttitor tincidunt orci.&lt;/li&gt;
+&lt;li&gt;Nulla convallis id sapien ornare viverra.&lt;/li&gt;
+&lt;li&gt;Nam a est eget ligula pellentesque posuere.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;quotations&#34;&gt;Quotations&lt;/h2&gt;
+&lt;p&gt;You can place the quote in the appropriate block:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If Ghandi had X, we would no longer have any authorities today.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;line-separating-text&#34;&gt;Line separating text&lt;/h2&gt;
+&lt;p&gt;Mauris viverra dictum ultricies&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;You can put some text inside the horizontal rule like so.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr data-content=&#34;there may be some text here&#34;&gt;
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;Or you can just have an clean horizontal rule.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.&lt;/p&gt;
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;JavaScript formatting here:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;const&lt;/span&gt; ultimateTruth = &lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;this theme is the best!&#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;console.log(ultimateTruth);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;C:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;#define UNICODE
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#e5e5e5&#34;&gt;&lt;windows.h&gt;&lt;/span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ee82ee&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#ff0&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#ee82ee&#34;&gt;int&lt;/span&gt; argc, &lt;span style=&#34;color:#ee82ee&#34;&gt;char&lt;/span&gt; **argv) { 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ee82ee&#34;&gt;int&lt;/span&gt; speed = &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, speed1 = &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, speed2 = &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;; &lt;span style=&#34;color:#0f0&#34;&gt;// 1-20 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff0&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Set Mouse Speed ​​by Maverick&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff0&#34;&gt;SystemParametersInfo&lt;/span&gt;(SPI_GETMOUSESPEED, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, &amp;speed, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff0&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Current speed: %2d&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;, speed); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc == &lt;span style=&#34;color:#f60&#34;&gt;1&lt;/span&gt;) &lt;span style=&#34;color:#f00&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc &gt;= &lt;span style=&#34;color:#f60&#34;&gt;2&lt;/span&gt;) &lt;span style=&#34;color:#ff0&#34;&gt;sscanf&lt;/span&gt;(argv[&lt;span style=&#34;color:#f60&#34;&gt;1&lt;/span&gt;], &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;%d&#34;&lt;/span&gt;, &amp;speed1); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc &gt;= &lt;span style=&#34;color:#f60&#34;&gt;3&lt;/span&gt;) &lt;span style=&#34;color:#ff0&#34;&gt;sscanf&lt;/span&gt;(argv[&lt;span style=&#34;color:#f60&#34;&gt;2&lt;/span&gt;], &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;%d&#34;&lt;/span&gt;, &amp;speed2); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc == &lt;span style=&#34;color:#f60&#34;&gt;2&lt;/span&gt;) &lt;span style=&#34;color:#0f0&#34;&gt;// set speed to first value 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;speed = speed1; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt; &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (speed == speed1 || speed == speed2) &lt;span style=&#34;color:#0f0&#34;&gt;// alternate 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;speed = speed1 &#43; speed2 - speed; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;speed = speed1; &lt;span style=&#34;color:#0f0&#34;&gt;// start with first value 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff0&#34;&gt;SystemParametersInfo&lt;/span&gt;(SPI_SETMOUSESPEED, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, speed, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff0&#34;&gt;SystemParametersInfo&lt;/span&gt;(SPI_GETMOUSESPEED, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, &amp;speed, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff0&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;New speed: %2d&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;, speed); 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Python:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#0f0&#34;&gt;# python test (sample from offlineimap)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;class&lt;/span&gt; ExitNotifyThread(Thread): 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&#34;&#34;This class is designed to alert a &#34;monitor&#34; to the fact that a thread has 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;exited and to provide for the ability for it to find out why.&#34;&#34;&#34;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#ff0&#34;&gt;run&lt;/span&gt;(self): 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;global&lt;/span&gt; exitthreads, profiledir 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;self.threadid = thread.get_ident() 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;try&lt;/span&gt;: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; not profiledir: &lt;span style=&#34;color:#0f0&#34;&gt;# normal case &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Thread.run(self) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt;: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;try&lt;/span&gt;: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;import&lt;/span&gt; cProfile &lt;span style=&#34;color:#f00&#34;&gt;as&lt;/span&gt; profile 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;except&lt;/span&gt; ImportError: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;import&lt;/span&gt; profiles 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;prof = profile.Profile() 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;try&lt;/span&gt;: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;prof = prof.runctx(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Thread.run(self)&#34;&lt;/span&gt;, globals(), locals()) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;except&lt;/span&gt; SystemExit: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;pass&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;prof.dump_stats( \ 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;profiledir &#43; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;/&#34;&lt;/span&gt; &#43; str(self.threadid) &#43; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;_&#34;&lt;/span&gt; &#43; \ 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;self.getName() &#43; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;.prof&#34;&lt;/span&gt;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;except&lt;/span&gt;: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;self.setExitCause(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;EXCEPTION&#39;&lt;/span&gt;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; sys: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;self.setExitException(sys.exc_info()[&lt;span style=&#34;color:#f60&#34;&gt;1&lt;/span&gt;]) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tb = traceback.format_exc() 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;self.setExitStackTrace(tb) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt;: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;self.setExitCause(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;NORMAL&#39;&lt;/span&gt;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; not hasattr(self, &lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;exitmessage&#39;&lt;/span&gt;): 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;self.setExitMessage(&lt;span style=&#34;color:#f00&#34;&gt;None&lt;/span&gt;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; exitthreads: 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;exitthreads.put(self, &lt;span style=&#34;color:#f00&#34;&gt;True&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Bash:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;#!/bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;DOT_FILES&lt;/span&gt;=&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;lastpass weechat ssh Xauthority&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;for&lt;/span&gt; dotfile in &lt;span style=&#34;color:#eedd82&#34;&gt;$DOT_FILES&lt;/span&gt;; to conform_link &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$DATA_DIR&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$dotfile&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;.&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$dotfile&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;; &lt;span style=&#34;color:#f00&#34;&gt;done&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#0f0&#34;&gt;# TODO: refactor with suffix variables (or common cron values)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;case&lt;/span&gt; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$PLATFORM&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt; in 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;linux) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#0f0&#34;&gt;#conform_link &#34;$CONF_DIR/shell/zshenv&#34; &#34;.zshenv&#34; &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;crontab -l &gt; &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;/tmp/crontab-conflict-arch 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;/&lt;span style=&#34;color:#eedd82&#34;&gt;$CONF_DIR&lt;/span&gt;/cron 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; [[ &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#f00&#34;&gt;$(&lt;/span&gt;diff ~/tmp/crontab-conflict-arch crontab-current-arch&lt;span style=&#34;color:#f00&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt; == &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&#34;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;]]; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;then&lt;/span&gt; &lt;span style=&#34;color:#0f0&#34;&gt;# no difference with current backup &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;logger &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$LOG_PREFIX&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;: crontab live settings match stored &#34;&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\ &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;settings; no restore required&#34;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rm ~/tmp/crontab-conflict-arch 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt; &lt;span style=&#34;color:#0f0&#34;&gt;# current crontab settings in file do not match live settings &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;crontab &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;/&lt;span style=&#34;color:#eedd82&#34;&gt;$CONF_DIR&lt;/span&gt;/cron/crontab-current-arch 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;logger &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$LOG_PREFIX&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;: crontab stored settings conflict with &#34;&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\ &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;live settings; stored settings restored. &#34;&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\ &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Previous settings recorded in ~/tmp/crontab-conflict-arch.&#34;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;fi&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can also mark a &lt;code&gt;line of code&lt;/code&gt; in the text!&lt;/p&gt;
+&lt;h2 id=&#34;table&#34;&gt;Table:&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tables&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;are&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;ok&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;col 3 is&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;right-aligned&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$1600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;col 2 is&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;centered&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$12&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;zebra stripes&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;are neat&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://yavuzceliker.github.io/sample-images/image-1021.jpg&#34; alt=&#34;Image&#34;&gt;
+Mountain view &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;categories-and-tags&#34;&gt;Categories and tags&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This is a footnote. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Hey there! &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;This is another footnote. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;This is a very, very, very long footnote. To see how this footnote is formatted. By the way, the image is from &lt;a href=&#34;https://github.com/yavuzceliker/sample-images?tab=readme-ov-file&#34;&gt;https://github.com/yavuzceliker/sample-images?tab=readme-ov-file&lt;/a&gt;. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Tue, 07 Jul 2020 00:00:00 &#43;0800</pubDate>
+            <guid>http://localhost:1313/blog/markdown/</guid>
+        </item>
+        
+        <item>
+            <title>Składnia markdown</title>
+            <link>http://localhost:1313/blog/markdown.pl/</link>
+            <description>&lt;p&gt;To jest przykładowy tekst, który ma pokazywać&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; wpis z dużą ilością różnych elementów.&lt;/p&gt;
+&lt;h1 id=&#34;przykładowy-nagłówek-1&#34;&gt;Przykładowy nagłówek 1&lt;/h1&gt;
+&lt;h2 id=&#34;przykładowy-nagłówek-2&#34;&gt;Przykładowy nagłówek 2&lt;/h2&gt;
+&lt;h3 id=&#34;przykładowy-nagłówek-3&#34;&gt;Przykładowy nagłówek 3&lt;/h3&gt;
+&lt;h4 id=&#34;przykładowy-nagłówek-4&#34;&gt;Przykładowy nagłówek 4&lt;/h4&gt;
+&lt;h5 id=&#34;przykładowy-nagłówek-5&#34;&gt;Przykładowy nagłówek 5&lt;/h5&gt;
+&lt;h6 id=&#34;przykładowy-nagłówek-6&#34;&gt;Przykładowy nagłówek 6&lt;/h6&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet. Sit dolor nihil aut blanditiis animi non dolores totam cum consequatur nesciunt et quod exercitationem est dolorum aliquam. Ut quidem ullam vel Quis culpa ad repellendus corrupti qui delectus voluptatum sit eligendi assumenda.&lt;/p&gt;
+&lt;h2 id=&#34;listy&#34;&gt;Listy&lt;/h2&gt;
+&lt;p&gt;Kropokowane:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeden&lt;/li&gt;
+&lt;li&gt;Dwa&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Trzy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Numerowane:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.&lt;/li&gt;
+&lt;li&gt;Sed massa quam, auctor in eros quis, porttitor tincidunt orci.&lt;/li&gt;
+&lt;li&gt;Nulla convallis id sapien ornare viverra.&lt;/li&gt;
+&lt;li&gt;Nam a est eget ligula pellentesque posuere.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;cytaty&#34;&gt;Cytaty&lt;/h2&gt;
+&lt;p&gt;Można umieścić cytat w odpowiednim bloku:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gdyby Ghandi miał X’a to nie mielibyśmy dziś już żadnych autorytetów.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;linia-oddzielające-tekst&#34;&gt;Linia oddzielające tekst&lt;/h2&gt;
+&lt;p&gt;Mauris viverra dictum ultricies&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;You can put some text inside the horizontal rule like so.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr data-content=&#34; tu może być jakiś tekst &#34;&gt;
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. &lt;strong&gt;Or you can just have an clean horizontal rule.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.&lt;/p&gt;
+&lt;h2 id=&#34;kod&#34;&gt;Kod&lt;/h2&gt;
+&lt;p&gt;Tu formatowanie javascript:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;const&lt;/span&gt; ultimateTruth = &lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;this theme is the best!&#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;console.log(ultimateTruth);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;C:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;#define UNICODE
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#e5e5e5&#34;&gt;&lt;windows.h&gt;&lt;/span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ee82ee&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#ff0&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#ee82ee&#34;&gt;int&lt;/span&gt; argc, &lt;span style=&#34;color:#ee82ee&#34;&gt;char&lt;/span&gt; **argv) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ee82ee&#34;&gt;int&lt;/span&gt; speed = &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, speed1 = &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, speed2 = &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;; &lt;span style=&#34;color:#0f0&#34;&gt;// 1-20
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff0&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Set Mouse Speed by Maverick&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff0&#34;&gt;SystemParametersInfo&lt;/span&gt;(SPI_GETMOUSESPEED, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, &amp;speed, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff0&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Current speed: %2d&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;, speed);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc == &lt;span style=&#34;color:#f60&#34;&gt;1&lt;/span&gt;) &lt;span style=&#34;color:#f00&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc &gt;= &lt;span style=&#34;color:#f60&#34;&gt;2&lt;/span&gt;) &lt;span style=&#34;color:#ff0&#34;&gt;sscanf&lt;/span&gt;(argv[&lt;span style=&#34;color:#f60&#34;&gt;1&lt;/span&gt;], &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;%d&#34;&lt;/span&gt;, &amp;speed1);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc &gt;= &lt;span style=&#34;color:#f60&#34;&gt;3&lt;/span&gt;) &lt;span style=&#34;color:#ff0&#34;&gt;sscanf&lt;/span&gt;(argv[&lt;span style=&#34;color:#f60&#34;&gt;2&lt;/span&gt;], &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;%d&#34;&lt;/span&gt;, &amp;speed2);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (argc == &lt;span style=&#34;color:#f60&#34;&gt;2&lt;/span&gt;) &lt;span style=&#34;color:#0f0&#34;&gt;// set speed to first value
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    speed = speed1;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt; &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; (speed == speed1 || speed == speed2) &lt;span style=&#34;color:#0f0&#34;&gt;// alternate
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    speed = speed1 &#43; speed2 - speed;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    speed = speed1;  &lt;span style=&#34;color:#0f0&#34;&gt;// start with first value
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff0&#34;&gt;SystemParametersInfo&lt;/span&gt;(SPI_SETMOUSESPEED, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;,  speed, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff0&#34;&gt;SystemParametersInfo&lt;/span&gt;(SPI_GETMOUSESPEED, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;, &amp;speed, &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#ff0&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;New speed:     %2d&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;, speed);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f00&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#f60&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Python:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#0f0&#34;&gt;# test python (sample from offlineimap)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;class&lt;/span&gt; ExitNotifyThread(Thread):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&#34;&#34;This class is designed to alert a &#34;monitor&#34; to the fact that a thread has
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;    exited and to provide for the ability for it to find out why.&#34;&#34;&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f00&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#ff0&#34;&gt;run&lt;/span&gt;(self):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;global&lt;/span&gt; exitthreads, profiledir
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        self.threadid = thread.get_ident()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;try&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; not profiledir:          &lt;span style=&#34;color:#0f0&#34;&gt;# normal case&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                Thread.run(self)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &lt;span style=&#34;color:#f00&#34;&gt;try&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &lt;span style=&#34;color:#f00&#34;&gt;import&lt;/span&gt; cProfile &lt;span style=&#34;color:#f00&#34;&gt;as&lt;/span&gt; profile
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &lt;span style=&#34;color:#f00&#34;&gt;except&lt;/span&gt; ImportError:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &lt;span style=&#34;color:#f00&#34;&gt;import&lt;/span&gt; profile
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                prof = profile.Profile()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &lt;span style=&#34;color:#f00&#34;&gt;try&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    prof = prof.runctx(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Thread.run(self)&#34;&lt;/span&gt;, globals(), locals())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &lt;span style=&#34;color:#f00&#34;&gt;except&lt;/span&gt; SystemExit:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &lt;span style=&#34;color:#f00&#34;&gt;pass&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                prof.dump_stats( \
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                            profiledir &#43; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;/&#34;&lt;/span&gt; &#43; str(self.threadid) &#43; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;_&#34;&lt;/span&gt; &#43; \
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                            self.getName() &#43; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;.prof&#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;except&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            self.setExitCause(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;EXCEPTION&#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; sys:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                self.setExitException(sys.exc_info()[&lt;span style=&#34;color:#f60&#34;&gt;1&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                tb = traceback.format_exc()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                self.setExitStackTrace(tb)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            self.setExitCause(&lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;NORMAL&#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; not hasattr(self, &lt;span style=&#34;color:#87ceeb&#34;&gt;&#39;exitmessage&#39;&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            self.setExitMessage(&lt;span style=&#34;color:#f00&#34;&gt;None&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; exitthreads:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            exitthreads.put(self, &lt;span style=&#34;color:#f00&#34;&gt;True&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Bash:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e5e5e5&#34;&gt;#!/bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;DOT_FILES&lt;/span&gt;=&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;lastpass weechat ssh Xauthority&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;for&lt;/span&gt; dotfile in &lt;span style=&#34;color:#eedd82&#34;&gt;$DOT_FILES&lt;/span&gt;; &lt;span style=&#34;color:#f00&#34;&gt;do&lt;/span&gt; conform_link &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$DATA_DIR&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$dotfile&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;.&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$dotfile&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;; &lt;span style=&#34;color:#f00&#34;&gt;done&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#0f0&#34;&gt;# TODO: refactor with suffix variables (or common cron values)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f00&#34;&gt;case&lt;/span&gt; &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$PLATFORM&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt; in
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    linux)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#0f0&#34;&gt;#conform_link &#34;$CONF_DIR/shell/zshenv&#34; &#34;.zshenv&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        crontab -l &gt; &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;/tmp/crontab-conflict-arch
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        cd &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;/&lt;span style=&#34;color:#eedd82&#34;&gt;$CONF_DIR&lt;/span&gt;/cron
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;if&lt;/span&gt; [[ &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#f00&#34;&gt;$(&lt;/span&gt;diff ~/tmp/crontab-conflict-arch crontab-current-arch&lt;span style=&#34;color:#f00&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt; == &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            ]];
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#f00&#34;&gt;then&lt;/span&gt; &lt;span style=&#34;color:#0f0&#34;&gt;# no difference with current backup&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                logger &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$LOG_PREFIX&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;: crontab live settings match stored &#34;&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;settings; no restore required&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                rm ~/tmp/crontab-conflict-arch
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#f00&#34;&gt;else&lt;/span&gt; &lt;span style=&#34;color:#0f0&#34;&gt;# current crontab settings in file do not match live settings&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                crontab &lt;span style=&#34;color:#eedd82&#34;&gt;$ROOT_DIR&lt;/span&gt;/&lt;span style=&#34;color:#eedd82&#34;&gt;$CONF_DIR&lt;/span&gt;/cron/crontab-current-arch
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                logger &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;&lt;/span&gt;&lt;span style=&#34;color:#eedd82&#34;&gt;$LOG_PREFIX&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;: crontab stored settings conflict with &#34;&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;live settings; stored settings restored. &#34;&lt;/span&gt;&lt;span style=&#34;color:#87ceeb&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &lt;span style=&#34;color:#87ceeb&#34;&gt;&#34;Previous settings recorded in ~/tmp/crontab-conflict-arch.&#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f00&#34;&gt;fi&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    ;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Można też zaznaczyć &lt;code&gt;linijkę kodu&lt;/code&gt; w tekście!&lt;/p&gt;
+&lt;h2 id=&#34;tabelka&#34;&gt;Tabelka:&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tabelki&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;są&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;okej&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;col 3 is&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;right-aligned&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$1600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;col 2 is&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;centered&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$12&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;zebra stripes&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;are neat&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;$1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;obrazki&#34;&gt;Obrazki&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://yavuzceliker.github.io/sample-images/image-1021.jpg&#34; alt=&#34;Obrazek&#34;&gt;
+Widokówka na góry &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;kategorie-i-tagi&#34;&gt;Kategorie i tagi&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;To jest przypis. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Hejka! &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;To inny przypis. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;To jest bardzo bardzo bardzo bardzo długi przypis. Żeby sprawdzić jak się formatuje ta stopka stopka. Przy okazji zdjęcie jest z &lt;a href=&#34;https://github.com/yavuzceliker/sample-images?tab=readme-ov-file&#34;&gt;https://github.com/yavuzceliker/sample-images?tab=readme-ov-file&lt;/a&gt;. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+            <pubDate>Tue, 07 Jul 2020 00:00:00 &#43;0800</pubDate>
+            <guid>http://localhost:1313/blog/markdown.pl/</guid>
+        </item>
+        
+        <item>
+            <title>Dziwny post z JavaScript</title>
+            <link>http://localhost:1313/blog/strange-post.pl/</link>
+            <description>&lt;p&gt;Ten post jest dziwny. Przy okazji załadował javascript.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 06 Jul 2020 00:00:00 &#43;0800</pubDate>
+            <guid>http://localhost:1313/blog/strange-post.pl/</guid>
+        </item>
+        
+        <item>
+            <title>Weird JavaScript post</title>
+            <link>http://localhost:1313/blog/strange-post/</link>
+            <description>&lt;p&gt;This post is weird. It also loaded JavaScript.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 06 Jul 2020 00:00:00 &#43;0800</pubDate>
+            <guid>http://localhost:1313/blog/strange-post/</guid>
+        </item>
+        
+    </channel>
+</rss>

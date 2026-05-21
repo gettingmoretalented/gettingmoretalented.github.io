@@ -6,8 +6,8 @@
 		"assets/css/custom.scss"
 	],
 	"sourcesContent": [
-		"/* Custom site styles */\n\narticle h1 {\n  text-align: center;\n}\n\n.post-metadata-header {\n  opacity: 0.5;\n}\n"
+		"/* Custom site styles */\n\narticle h1 {\n  text-align: center;\n}\n\n.post-metadata-header {\n  opacity: 0.5;\n}\n\n.ca-footer {\n  display: flex;\n  justify-content: center;\n  margin-top: 2rem;\n  padding-bottom: 2rem;\n  width: 100%;\n}\n\n#ca-canvas {\n  max-width: 100%;\n  height: auto;\n  background: transparent;\n}\n"
 	],
 	"names": [],
-	"mappings": "AAEA,AAAA,OAAO,CAAC,EAAE,AAAC,CACT,UAAU,CAAE,MAAM,CACnB,AAED,AAAA,qBAAqB,AAAC,CACpB,OAAO,CAAE,GAAG,CACb"
+	"mappings": "AAEA,AAAA,OAAO,CAAC,EAAE,AAAC,CACT,UAAU,CAAE,MAAM,CACnB,AAED,AAAA,qBAAqB,AAAC,CACpB,OAAO,CAAE,GAAG,CACb,AAED,AAAA,UAAU,AAAC,CACT,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,MAAM,CACvB,UAAU,CAAE,IAAI,CAChB,cAAc,CAAE,IAAI,CACpB,KAAK,CAAE,IAAI,CACZ,AAED,AAAA,UAAU,AAAC,CACT,SAAS,CAAE,IAAI,CACf,MAAM,CAAE,IAAI,CACZ,UAAU,CAAE,WAAW,CACxB"
 }
