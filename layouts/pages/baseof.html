@@ -7,7 +7,7 @@
     <main class="page-content" aria-label="Content">
         <div class="w">
             
-            {{ if and (not .IsHome) (ne .RelPermalink "/links/") }}
+            {{ if and (not .IsHome) (ne .RelPermalink "/links/") (ne .RelPermalink "/lists/") }}
             <header class="site-header">
                 <h1 class="site-title">{{ .Site.Title }}</h1>
                 <div class="header-nav">

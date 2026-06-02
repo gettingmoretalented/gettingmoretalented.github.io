@@ -1,7 +1,7 @@
 <rss version="2.0">
     <channel>
         <title>My website name</title>
-        <link>http://localhost:1313/tags/can-be/</link>
+        <link>//localhost:1313/tags/can-be/</link>
         <description>RSS description.</description>
         <language>en</language>
         
@@ -9,19 +9,19 @@
         
         <item>
             <title>flight anxiety</title>
-            <link>http://localhost:1313/blog/flight-anxiety/</link>
+            <link>//localhost:1313/blog/flight-anxiety/</link>
             <description>&lt;blockquote&gt;
 &lt;p&gt;tldr; took 10mg propranalol, flight anxiety semi-permanently (n=3) went away&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;so i used to (as of ~6 months ago) have really bad flight anxiety. the smallest amount of turbulence would make me clench the armrests for dear life.&lt;/p&gt;
-&lt;p&gt;i’ve intentionally missed flights because of this, and because flying is cheap and convenient, this was a major hindrance in my life would i wanted to get rid of.&lt;/p&gt;
+&lt;p&gt;i’ve intentionally missed flights because of this, and because flying is cheap and convenient, this was a major hindrance in my life that i wanted to get rid of.&lt;/p&gt;
 &lt;p&gt;it wasn’t the potential dying part which i minded (although i would prefer not to die), but the fact that if anything happened my last moments would likely be spent in terror.&lt;/p&gt;
 &lt;p&gt;anyway, recently i’ve been more and more attracted to materialism as the true nature of reality, and thus reasoned i must fix this directly by the root cause, my brain.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;years ago i had been given a prescription for propranolol, for ’exam anxiety’. i took 5mg (half of one 10mg sized pills they had given me) on a whim and felt nothing, thus ending my experiment then and there.&lt;/p&gt;
 &lt;p&gt;now i had looked online before for general flight anxiety tips, and there would be some hippie-esque tips like “sensory grounding” and “let go”. even learning about how airplanes work did not really help, the anxiety really was some maladaptive response i had picked up somewhere.&lt;/p&gt;
 &lt;p&gt;at some point i got fed up and decided to just find a way to shut down my body during a flight, so i naturally turned to researching chemicals that would do the trick.&lt;/p&gt;
-&lt;p&gt;the obvious choice was some form of benzodiazepines (fx. xanax, etc.) however, i live in a country where it’s quite hard to get these without some form of prescription, and trying to convince a doctor that i would need a lot of xanax for ‘flight anxiety’ seemed to be unrealistic.&lt;/p&gt;
+&lt;p&gt;the obvious choice was some form of benzodiazepines (fx. xanax, etc.), however, i live in a country where it’s quite hard to get these without some form of prescription, and trying to convince a doctor that i would need a lot of xanax for ‘flight anxiety’ seemed to be unrealistic.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;i then remembered my long forgotten bottle of propranalol, with around 249.5 doses remaining. some quick research and there was some evidence and experiences using against flight anxiety. some more research later and i found myself quite excited, as the proposed mechanism of action seemed to be quite effective.&lt;/p&gt;
 &lt;p&gt;from ChatGPT:&lt;/p&gt;
@@ -45,27 +45,25 @@
 &lt;/blockquote&gt;
 &lt;p&gt;thus, if this is correct, propranalol could potentialy remove my flight anxiety, by taking it once, forever.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;anyway long story short i ended up trying it, taking the recommended dose 30 minutes before boarding (with peak blood plasma apparently being around 60-90 minutes after ingestion), and having a great flight, even with turbulence. i actually enjoyed flying for once, even enjoying the turbulence.&lt;/p&gt;
+&lt;p&gt;anyway long story short i ended up trying it, taking the recommended dose (10mg as per prescription) 30 minutes before boarding (with peak blood plasma apparently being around 60-90 minutes after ingestion), and having a great flight, even with turbulence. i actually enjoyed flying for once, even enjoying the turbulence.&lt;/p&gt;
 &lt;p&gt;the effect was a sort of dampening of my physical senses, especially my adrenaline. bumps that would usually send my heart racing, and send a wave of anxiety to my chest, now just manifested as a slight tension in my stomach, which would subside within seconds.&lt;/p&gt;
 &lt;p&gt;so i think that this experiment was a huge success. what i now was most interested in was if this effect was going to last.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;around 5 months later, i booked a weekend flight, and decided to try not taking propranalol both times, to see what would happen.&lt;/p&gt;
 &lt;p&gt;what i found was, this anti-adrenaline effect was still at least 80% there, compared to before ever taking propranalol.&lt;/p&gt;
-&lt;p&gt;even if the effect is completely by 6 months (will see and update), some quick maths gives me:&lt;/p&gt;
-&lt;p&gt;[
-\begin{aligned}
-247 doses * 6 months / 12 = 123.5 years
-\end{aligned}
-]&lt;/p&gt;
-&lt;p&gt;so should last me (hopefully) a lifetime.&lt;/p&gt;
+&lt;p&gt;even if the effect is completely gone by 6 months (doubtful, but will see and update), some quick maths gives me:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(247 doses * 6 months) / 12 = 123.5 years&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;so the whole bottle should last me (hopefully) a lifetime.&lt;/p&gt;
 </description>
             <pubDate>Wed, 20 May 2026 21:16:11 BST</pubDate>
-            <guid>http://localhost:1313/blog/flight-anxiety/</guid>
+            <guid>//localhost:1313/blog/flight-anxiety/</guid>
         </item>
         
         <item>
             <title>Spis treści, tag details, schematy kolorów kategorie i tagi (ten wpis ma naprawdę długi tytuł!)</title>
-            <link>http://localhost:1313/blog/toc-details-colors-categories-tags.pl/</link>
+            <link>//localhost:1313/blog/toc-details-colors-categories-tags.pl/</link>
             <description>&lt;h2 id=&#34;spis-treści&#34;&gt;Spis treści&lt;/h2&gt;
 &lt;h3 id=&#34;co-to-jest&#34;&gt;Co to jest?&lt;/h3&gt;
 &lt;p&gt;Spis treści (Table of content - TOC) to to co widzisz na samej górze tego wpisu. Spis treści może być obramowany lub nie. Klikając na pozycję w spisie treści użytkownik jest przenoszony do odpowiedniego fragmentu strony, nagłówek zaś jest podświetlany.&lt;/p&gt;
@@ -92,12 +90,12 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Możesz ją zmienić na kilka predefiniowanych styli (&lt;code&gt;light&lt;/code&gt;, &lt;code&gt;dark&lt;/code&gt;, &lt;code&gt;matrix&lt;/code&gt;, &lt;code&gt;bear&lt;/code&gt;, &lt;code&gt;together&lt;/code&gt;). Jeśli zostawisz &lt;code&gt;auto&lt;/code&gt; schemat kolorów będzie się dopasowywać do kolorów w Twoim systemie operacyjnym (między &lt;code&gt;light&lt;/code&gt; i &lt;code&gt;dark&lt;/code&gt;). Możesz z łatwością dodawać swoje schematy kolorystyczne, po prostu edytuj CSS. Jest to proste i jeśli dajesz radę sobie z Hugo to edycja CSS nie powinna być też bardzo trudna. ;-)&lt;/p&gt;
 </description>
             <pubDate>Thu, 20 Nov 2025 13:34:54 &#43;0200</pubDate>
-            <guid>http://localhost:1313/blog/toc-details-colors-categories-tags.pl/</guid>
+            <guid>//localhost:1313/blog/toc-details-colors-categories-tags.pl/</guid>
         </item>
         
         <item>
             <title>Table of contents, details, color schemes, categories and tags (This post has a really long title!)</title>
-            <link>http://localhost:1313/blog/toc-details-colors-categories-tags/</link>
+            <link>//localhost:1313/blog/toc-details-colors-categories-tags/</link>
             <description>&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
 &lt;h3 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h3&gt;
 &lt;p&gt;The Table of Contents (TOC) is what you see at the very top of this post. The TOC can be bordered or unbordered. Clicking an item in the TOC takes the user to the appropriate section of the page, and the header is highlighted.&lt;/p&gt;
@@ -124,12 +122,12 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can change it to several predefined styles (&lt;code&gt;light&lt;/code&gt;, &lt;code&gt;dark&lt;/code&gt;, &lt;code&gt;matrix&lt;/code&gt;, &lt;code&gt;bear&lt;/code&gt;, &lt;code&gt;together&lt;/code&gt;). If you leave it on &lt;code&gt;auto&lt;/code&gt;, the color scheme will match your operating system’s colors (between &lt;code&gt;light&lt;/code&gt; and &lt;code&gt;dark&lt;/code&gt;). You can easily add your own color schemes, just edit the CSS. It’s simple, and if you’re comfortable with Hugo, editing CSS shouldn’t be too difficult either. ;-)&lt;/p&gt;
 </description>
             <pubDate>Thu, 20 Nov 2025 13:34:54 &#43;0200</pubDate>
-            <guid>http://localhost:1313/blog/toc-details-colors-categories-tags/</guid>
+            <guid>//localhost:1313/blog/toc-details-colors-categories-tags/</guid>
         </item>
         
         <item>
             <title>Test Tex</title>
-            <link>http://localhost:1313/blog/test-tex/</link>
+            <link>//localhost:1313/blog/test-tex/</link>
             <description>&lt;p&gt;As you can see, you can easily use mathematical formulas within one line: &lt;span&gt;
 \(\varphi\)
 &lt;/span&gt;
@@ -148,12 +146,12 @@ $$&lt;/p&gt;
 &lt;p&gt;And continue writing in mardown.&lt;/p&gt;
 </description>
             <pubDate>Fri, 26 Aug 2022 22:28:10 &#43;0800</pubDate>
-            <guid>http://localhost:1313/blog/test-tex/</guid>
+            <guid>//localhost:1313/blog/test-tex/</guid>
         </item>
         
         <item>
             <title>Test Tex</title>
-            <link>http://localhost:1313/blog/test-tex.pl/</link>
+            <link>//localhost:1313/blog/test-tex.pl/</link>
             <description>&lt;p&gt;Jak widać można bez problemu używać formuł matematycznych w ramach jednej linijki: &lt;span&gt;
 \(\varphi\)
 &lt;/span&gt;
@@ -172,12 +170,12 @@ $$&lt;/p&gt;
 &lt;p&gt;I dalej pisać w mardown.&lt;/p&gt;
 </description>
             <pubDate>Fri, 26 Aug 2022 22:28:10 &#43;0800</pubDate>
-            <guid>http://localhost:1313/blog/test-tex.pl/</guid>
+            <guid>//localhost:1313/blog/test-tex.pl/</guid>
         </item>
         
         <item>
             <title>Markdown Syntax</title>
-            <link>http://localhost:1313/blog/markdown/</link>
+            <link>//localhost:1313/blog/markdown/</link>
             <description>&lt;p&gt;This is sample text intended to show&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; a post with a large number of different elements.&lt;/p&gt;
 &lt;h1 id=&#34;sample-heading-1&#34;&gt;Sample Heading 1&lt;/h1&gt;
 &lt;h2 id=&#34;sample-heading-2&#34;&gt;Sample Heading 2&lt;/h2&gt;
@@ -357,12 +355,12 @@ Mountain view &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&
 &lt;/div&gt;
 </description>
             <pubDate>Tue, 07 Jul 2020 00:00:00 &#43;0800</pubDate>
-            <guid>http://localhost:1313/blog/markdown/</guid>
+            <guid>//localhost:1313/blog/markdown/</guid>
         </item>
         
         <item>
             <title>Składnia markdown</title>
-            <link>http://localhost:1313/blog/markdown.pl/</link>
+            <link>//localhost:1313/blog/markdown.pl/</link>
             <description>&lt;p&gt;To jest przykładowy tekst, który ma pokazywać&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; wpis z dużą ilością różnych elementów.&lt;/p&gt;
 &lt;h1 id=&#34;przykładowy-nagłówek-1&#34;&gt;Przykładowy nagłówek 1&lt;/h1&gt;
 &lt;h2 id=&#34;przykładowy-nagłówek-2&#34;&gt;Przykładowy nagłówek 2&lt;/h2&gt;
@@ -542,25 +540,25 @@ Widokówka na góry &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; c
 &lt;/div&gt;
 </description>
             <pubDate>Tue, 07 Jul 2020 00:00:00 &#43;0800</pubDate>
-            <guid>http://localhost:1313/blog/markdown.pl/</guid>
+            <guid>//localhost:1313/blog/markdown.pl/</guid>
         </item>
         
         <item>
             <title>Dziwny post z JavaScript</title>
-            <link>http://localhost:1313/blog/strange-post.pl/</link>
+            <link>//localhost:1313/blog/strange-post.pl/</link>
             <description>&lt;p&gt;Ten post jest dziwny. Przy okazji załadował javascript.&lt;/p&gt;
 </description>
             <pubDate>Mon, 06 Jul 2020 00:00:00 &#43;0800</pubDate>
-            <guid>http://localhost:1313/blog/strange-post.pl/</guid>
+            <guid>//localhost:1313/blog/strange-post.pl/</guid>
         </item>
         
         <item>
             <title>Weird JavaScript post</title>
-            <link>http://localhost:1313/blog/strange-post/</link>
+            <link>//localhost:1313/blog/strange-post/</link>
             <description>&lt;p&gt;This post is weird. It also loaded JavaScript.&lt;/p&gt;
 </description>
             <pubDate>Mon, 06 Jul 2020 00:00:00 &#43;0800</pubDate>
-            <guid>http://localhost:1313/blog/strange-post/</guid>
+            <guid>//localhost:1313/blog/strange-post/</guid>
         </item>
         
     </channel>
