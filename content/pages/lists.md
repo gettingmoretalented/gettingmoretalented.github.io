@@ -12,9 +12,17 @@ this page lists some of my favorite things in general, organized by topic.
 visual:
  - anime:
    - dorohedoro
+ - manga:
+   - grand blue
+   - dai dark
+   - dr. stone
+   - blame!
  - movies:
    - scarface
    - goodfellas
+ - youtube:
+   - channels:
+     - nilered
 
 audio:
   - podcasts:
