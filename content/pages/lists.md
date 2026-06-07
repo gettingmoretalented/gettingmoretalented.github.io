@@ -23,6 +23,12 @@ visual:
  - youtube:
    - channels:
      - nilered
+ - games:
+   - the legend of zelda: ocarina of time (and almost all zeldas)
+   - super mario 64
+   - old school runescape
+   - the binding of isaac
+
 
 audio:
   - podcasts:
@@ -54,4 +60,6 @@ audio:
    - electronic:
      - skrillex
   
-
+smell:
+ - fragrances:
+   - cherry punk by room 1015
