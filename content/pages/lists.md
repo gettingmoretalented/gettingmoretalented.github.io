@@ -17,6 +17,7 @@ visual:
    - dai dark
    - dr. stone
    - blame!
+   - 21st century boys
  - movies:
    - scarface
    - goodfellas
