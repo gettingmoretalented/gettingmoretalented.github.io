@@ -23,6 +23,7 @@ visual:
  - youtube:
    - channels:
      - nilered
+     - applied science
  - games:
    - the legend of zelda: ocarina of time (and almost all zeldas)
    - super mario 64
