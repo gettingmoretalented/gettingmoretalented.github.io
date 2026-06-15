@@ -2,38 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:36555/</loc>
-    <lastmod>2026-06-07T01:39:07+01:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2026-06-07T21:55:43+01:00</lastmod>
   </url><url>
-    <loc>//localhost:36555/blog/peace-of-mind/</loc>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2026-06-07T21:55:43+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/search/</loc>
+    <lastmod>2026-06-07T21:55:43+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/peace-of-mind/</loc>
     <lastmod>2026-06-07T01:23:29+01:00</lastmod>
   </url><url>
-    <loc>//localhost:36555/posts/</loc>
+    <loc>//localhost:1313/blog/thc/</loc>
+    <lastmod>2026-06-02T17:56:35+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/copymore/</loc>
     <lastmod>2026-06-07T01:23:29+01:00</lastmod>
   </url><url>
-    <loc>//localhost:36555/blog/thc/</loc>
+    <loc>//localhost:1313/lists/</loc>
+    <lastmod>2026-06-07T21:14:18+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/pages/</loc>
+    <lastmod>2026-06-07T21:14:18+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/flight-anxiety/</loc>
     <lastmod>2026-06-02T17:56:35+01:00</lastmod>
   </url><url>
-    <loc>//localhost:36555/blog/copymore/</loc>
-    <lastmod>2026-06-07T01:23:29+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:36555/lists/</loc>
-    <lastmod>2026-06-07T01:39:07+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:36555/pages/</loc>
-    <lastmod>2026-06-07T01:39:07+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:36555/blog/flight-anxiety/</loc>
+    <loc>//localhost:1313/links/</loc>
     <lastmod>2026-06-02T17:56:35+01:00</lastmod>
   </url><url>
-    <loc>//localhost:36555/links/</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2026-06-02T17:56:35+01:00</lastmod>
   </url><url>
-    <loc>//localhost:36555/blog/</loc>
-    <lastmod>2026-06-02T17:56:35+01:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:36555/categories/</loc>
-  </url><url>
-    <loc>//localhost:36555/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

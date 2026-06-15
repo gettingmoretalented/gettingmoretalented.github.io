@@ -1,15 +1,23 @@
 <rss version="2.0">
     <channel>
         <title>My website name</title>
-        <link>//localhost:36555/posts/</link>
+        <link>//localhost:1313/posts/</link>
         <description>RSS description.</description>
         <language>en</language>
         
         
         
         <item>
+            <title>search</title>
+            <link>//localhost:1313/blog/search/</link>
+            <description></description>
+            <pubDate>Sun, 07 Jun 2026 21:55:43 BST</pubDate>
+            <guid>//localhost:1313/blog/search/</guid>
+        </item>
+        
+        <item>
             <title>peace of mind</title>
-            <link>//localhost:36555/blog/peace-of-mind/</link>
+            <link>//localhost:1313/blog/peace-of-mind/</link>
             <description>&lt;p&gt;this post is really just about cognitive offloading, but i liked the title peace of mind.&lt;/p&gt;
 &lt;p&gt;iv’e recently started appreciating the small effort but huge payoff actions like locking the door and setting an alarm. it’s amazing to me how wonderful the immediate effects are, like removing the constant alarm bell ringing in my head. i wonder what other small actions i can take which will do this. low hanging fruit is tasty faster. here are some examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -34,12 +42,12 @@
 &lt;/ul&gt;
 </description>
             <pubDate>Sun, 07 Jun 2026 00:36:19 BST</pubDate>
-            <guid>//localhost:36555/blog/peace-of-mind/</guid>
+            <guid>//localhost:1313/blog/peace-of-mind/</guid>
         </item>
         
         <item>
             <title>thc (the human condition)</title>
-            <link>//localhost:36555/blog/thc/</link>
+            <link>//localhost:1313/blog/thc/</link>
             <description>&lt;p&gt;I read this quote about drugs recently, which really put things into perspective.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;You can take all the LSD you want and escape for a while, but the one constant which you will always come back to, is the human condition. You still will get hungry, the sun will still rotate around the Earth, and you still will have to go into work on Monday.&lt;/p&gt;
@@ -54,23 +62,23 @@
 &lt;p&gt;How many people are working towards sustainably fighting entropy?&lt;/p&gt;
 </description>
             <pubDate>Tue, 02 Jun 2026 17:41:26 BST</pubDate>
-            <guid>//localhost:36555/blog/thc/</guid>
+            <guid>//localhost:1313/blog/thc/</guid>
         </item>
         
         <item>
             <title>copymore</title>
-            <link>//localhost:36555/blog/copymore/</link>
+            <link>//localhost:1313/blog/copymore/</link>
             <description>&lt;p&gt;when i was younger, i remember having apprehension from copying what other people were doing. a quick reflection on this leads me to think it’s a consequence of trying to distinct oneself in a small tribe (fx. fellow classmates). if everyone is a builder, who is going to hunt for food?&lt;/p&gt;
 &lt;p&gt;anyway, similar to &lt;a href=&#34;https://near.blog/&#34;&gt;near&lt;/a&gt;’s post, &lt;a href=&#34;https://near.blog/try-a-thing/&#34;&gt;try a thing&lt;/a&gt;, and inspired by the general notion that skillz pay the billz, it’s interesting what opportunities arise because of a random skill you saw someone else do, and decided to try yourself.&lt;/p&gt;
 &lt;p&gt;this could also help expand your &lt;a href=&#34;https://near.blog/personality-basins/&#34;&gt;personality basin&lt;/a&gt;&lt;/p&gt;
 </description>
             <pubDate>Tue, 02 Jun 2026 17:08:58 BST</pubDate>
-            <guid>//localhost:36555/blog/copymore/</guid>
+            <guid>//localhost:1313/blog/copymore/</guid>
         </item>
         
         <item>
             <title>flight anxiety</title>
-            <link>//localhost:36555/blog/flight-anxiety/</link>
+            <link>//localhost:1313/blog/flight-anxiety/</link>
             <description>&lt;blockquote&gt;
 &lt;p&gt;tldr; took 10mg propranalol, flight anxiety semi-permanently (n=3) went away&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -119,7 +127,7 @@
 &lt;p&gt;so the whole bottle should last me (hopefully) a lifetime.&lt;/p&gt;
 </description>
             <pubDate>Wed, 20 May 2026 21:16:11 BST</pubDate>
-            <guid>//localhost:36555/blog/flight-anxiety/</guid>
+            <guid>//localhost:1313/blog/flight-anxiety/</guid>
         </item>
         
     </channel>
