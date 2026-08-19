@@ -13,7 +13,11 @@
             <description>&lt;p&gt;About 6 months ago I finally got fed up with macOS. To be honest, I still like it. It is almost perfect. I mean it just works.&lt;/p&gt;
 &lt;p&gt;However, I found it to be too closed off. For example, if I wanted to change my theme, or something else, I simply could not do that. Plus it is somehow really bloated. My old macbook had at least 60gb worth of system files, doing god know what.&lt;/p&gt;
 &lt;p&gt;I had read about &lt;a href=&#34;https://omarchy.org/&#34;&gt;Omarchy&lt;/a&gt; some time prior, and thus finally decided to give it a shot. And boy, oh boy, I am sure glad I did.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../static/images/jarvis.png&#34; alt=&#34;how it feels to use an ai agent with linux&#34;&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;../images/jarvis.png&#34;&gt;&lt;figcaption&gt;
+			&lt;h4&gt;how it feels to use an ai agent with linux&lt;/h4&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;&lt;a href=&#34;https://opencode.ai/&#34;&gt;OpenCode&lt;/a&gt; was released on June 19th, 2025. Before this, I was simply using LLM’s through the web versions, so I never experienced an LLM take control of my computer.&lt;/p&gt;
 &lt;p&gt;Since Linux’s code is fully open source, is probably in the training set, and LLM’s can sort of code now, one can really change whatever they want on their computer, with ease. It truly becomes your own machine. No longer do you have to get &lt;a href=&#34;https://learn.microsoft.com/en-us/answers/questions/2393969/how-can-i-get-rid-of-my-login-screen-idiotically-a&#34;&gt;candy crush ads in your operating system&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I have ran various distros of linux before, and while good, when various issues pop up, one has to sift through various posts and documentation, potentially taking hours to debug and solve. What once took hours to days, now takes seconds to minutes, thanks to agentic ai.&lt;/p&gt;
