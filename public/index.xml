@@ -8,6 +8,22 @@
         
         
         <item>
+            <title>jarvis (the year of the linux desktop)</title>
+            <link>//localhost:1313/blog/jarvis/</link>
+            <description>&lt;p&gt;About 6 months ago I finally got fed up with macOS. To be honest, I still like it. It is almost perfect. I mean it just works.&lt;/p&gt;
+&lt;p&gt;However, I found it to be too closed off. For example, if I wanted to change my theme, or something else, I simply could not do that. Plus it is somehow really bloated. My old macbook had at least 60gb worth of system files, doing god know what.&lt;/p&gt;
+&lt;p&gt;I had read about &lt;a href=&#34;https://omarchy.org/&#34;&gt;Omarchy&lt;/a&gt; some time prior, and thus finally decided to give it a shot. And boy, oh boy, I am sure glad I did.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../static/images/jarvis.png&#34; alt=&#34;how it feels to use an ai agent with linux&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://opencode.ai/&#34;&gt;OpenCode&lt;/a&gt; was released on June 19th, 2025. Before this, I was simply using LLM’s through the web versions, so I never experienced an LLM take control of my computer.&lt;/p&gt;
+&lt;p&gt;Since Linux’s code is fully open source, is probably in the training set, and LLM’s can sort of code now, one can really change whatever they want on their computer, with ease. It truly becomes your own machine. No longer do you have to get &lt;a href=&#34;https://learn.microsoft.com/en-us/answers/questions/2393969/how-can-i-get-rid-of-my-login-screen-idiotically-a&#34;&gt;candy crush ads in your operating system&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have ran various distros of linux before, and while good, when various issues pop up, one has to sift through various posts and documentation, potentially taking hours to debug and solve. What once took hours to days, now takes seconds to minutes, thanks to agentic ai.&lt;/p&gt;
+&lt;p&gt;it really is the year of the linux desktop, and it has only just begun.&lt;/p&gt;
+</description>
+            <pubDate>Wed, 19 Aug 2026 17:34:46 CEST</pubDate>
+            <guid>//localhost:1313/blog/jarvis/</guid>
+        </item>
+        
+        <item>
             <title>soul</title>
             <link>//localhost:1313/blog/soul/</link>
             <description>&lt;blockquote&gt;
@@ -20,7 +36,7 @@
 &lt;p&gt;i think i am experiencing stuff. if i were to die, then have a clone replace me, would my thread of consciousness be preserved?&lt;/p&gt;
 &lt;p&gt;i might act the exact same way, but i think the original ’experiencee’ would probably be gone.&lt;/p&gt;
 </description>
-            <pubDate>Mon, 15 Jun 2026 22:00:46 BST</pubDate>
+            <pubDate>Mon, 15 Jun 2026 22:00:46 &#43;0100</pubDate>
             <guid>//localhost:1313/blog/soul/</guid>
         </item>
         
@@ -38,7 +54,7 @@
 &lt;p&gt;“As you progress in life, you will usually perform less exploration … and more exploiting …” - &lt;a href=&#34;https://near.blog/personality-basins/&#34;&gt;near.blog personality basins&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-            <pubDate>Sun, 07 Jun 2026 21:55:43 BST</pubDate>
+            <pubDate>Sun, 07 Jun 2026 21:55:43 &#43;0100</pubDate>
             <guid>//localhost:1313/blog/search/</guid>
         </item>
         
@@ -68,7 +84,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-            <pubDate>Sun, 07 Jun 2026 00:36:19 BST</pubDate>
+            <pubDate>Sun, 07 Jun 2026 00:36:19 &#43;0100</pubDate>
             <guid>//localhost:1313/blog/peace-of-mind/</guid>
         </item>
         
@@ -88,7 +104,7 @@
 &lt;p&gt;This post is really just a wake up call. I get my paycheck, and still sometimes think, what the hell am I going to do with this money anyway? Every passing moment is a battle against entropy, everything around you is slowly decaying, what are you going to do about it?&lt;/p&gt;
 &lt;p&gt;How many people are working towards sustainably fighting entropy?&lt;/p&gt;
 </description>
-            <pubDate>Tue, 02 Jun 2026 17:41:26 BST</pubDate>
+            <pubDate>Tue, 02 Jun 2026 17:41:26 &#43;0100</pubDate>
             <guid>//localhost:1313/blog/thc/</guid>
         </item>
         
@@ -99,7 +115,7 @@
 &lt;p&gt;anyway, similar to &lt;a href=&#34;https://near.blog/&#34;&gt;near&lt;/a&gt;’s post, &lt;a href=&#34;https://near.blog/try-a-thing/&#34;&gt;try a thing&lt;/a&gt;, and inspired by the general notion that skillz pay the billz, it’s interesting what opportunities arise because of a random skill you saw someone else do, and decided to try yourself.&lt;/p&gt;
 &lt;p&gt;this could also help expand your &lt;a href=&#34;https://near.blog/personality-basins/&#34;&gt;personality basin&lt;/a&gt;&lt;/p&gt;
 </description>
-            <pubDate>Tue, 02 Jun 2026 17:08:58 BST</pubDate>
+            <pubDate>Tue, 02 Jun 2026 17:08:58 &#43;0100</pubDate>
             <guid>//localhost:1313/blog/copymore/</guid>
         </item>
         
@@ -153,7 +169,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;so the whole bottle should last me (hopefully) a lifetime.&lt;/p&gt;
 </description>
-            <pubDate>Wed, 20 May 2026 21:16:11 BST</pubDate>
+            <pubDate>Wed, 20 May 2026 21:16:11 &#43;0100</pubDate>
             <guid>//localhost:1313/blog/flight-anxiety/</guid>
         </item>
         
