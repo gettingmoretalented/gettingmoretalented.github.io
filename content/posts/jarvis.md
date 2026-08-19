@@ -13,7 +13,7 @@ However, I found it to be too closed off. For example, if I wanted to change my 
 
 I had read about [Omarchy](https://omarchy.org/) some time prior, and thus finally decided to give it a shot. And boy, oh boy, I am sure glad I did.
 
-![how it feels to use an ai agent with linux](../../static/images/jarvis.png)
+![how it feels to use an ai agent with linux](/images/jarvis.png)
 
 [OpenCode](https://opencode.ai/) was released on June 19th, 2025. Before this, I was simply using LLM's through the web versions, so I never experienced an LLM take control of my computer.
 
